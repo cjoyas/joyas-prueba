@@ -1,3 +1,0 @@
-# joyas-prueba
-#Probando
-#test
